@@ -1,0 +1,55 @@
+{
+    "menus": [
+      {
+        "name": "Salads",
+        "description": "All Fresh & Delicious",
+        "image_url": "https://img.freepik.com/premium-photo/chef-using-knife-cutting-vegetable-salad-professional-kitchen_155807-30302.jpg",
+        "items": [
+          {
+            "title": "Greek Salad",
+            "short_description": "A mix of fresh cucumbers, tomatoes, olives, and feta cheese.",
+            "price": 450,
+            "image_url": "https://img.freepik.com/free-photo/top-view-vegetable-salad-plate-tablecloth-fork-knife-salt-black-pepper-pine-branch-dark-red-table_140725-59498.jpg"
+          },
+          {
+            "title": "Caesar Salad",
+            "short_description": "Crisp romaine lettuce with a creamy Caesar dressing.",
+            "price": 500,
+            "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/01/26/0/Mary_McCartney-chefs-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1611688486637.webp"
+          },
+          {
+            "title": "Quinoa Salad",
+            "short_description": "A healthy blend of quinoa, avocado, and chickpeas.",
+            "price": 550,
+            "image_url": "https://cookingforpeanuts.com/wp-content/uploads/2022/05/Quick-Oil-Free-Edamame-Quinoa-Salad-Featured.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Starters",
+        "description": "Soups & Tapas",
+        "image_url": "https://www.psseasoning.com/cdn/shop/collections/Broccoli-Cheddar-Soup_600x.jpg?v=1604523399",
+        "items": [
+          {
+            "title": "Tomato Soup",
+            "short_description": "A rich and creamy tomato soup with fresh herbs.",
+            "price": 350,
+            "image_url": "https://www.foodandwine.com/thmb/j1vJdgrMdu64ElBpxMzmvqpyt5U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-tomato-soup-buttery-croutons-hero-02-49b419d00f854db78838a79c8df9a23f.jpg"
+          },
+          {
+            "title": "Chicken Corn Soup",
+            "short_description": "Classic chicken corn soup with a touch of garlic.",
+            "price": 400,
+            "image_url": "https://img.taste.com.au/CCnkLB1G/taste/2016/11/chicken-and-sweet-corn-soup-3787-1.jpeg"
+          },
+          {
+            "title": "Tapas Platter",
+            "short_description": "An assortment of Spanish-style tapas, including olives and chorizo.",
+            "price": 700,
+            "image_url": "https://www.goya.com/media/6702/spanish-tapas-platter.jpg?quality=80"
+          }
+        ]
+      }
+    ]
+  }
+  
